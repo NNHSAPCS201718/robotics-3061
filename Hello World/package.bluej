@@ -32,10 +32,11 @@ target1.width=80
 target1.x=90
 target1.y=20
 target2.height=50
-target2.name=Motors
+target2.name=MotorRun
 target2.showInterface=false
 target2.type=ClassTarget
 target2.typeParameters=
+<<<<<<< HEAD
 target2.width=80
 target2.x=230
 target2.y=80
@@ -47,3 +48,8 @@ target3.typeParameters=
 target3.width=140
 target3.x=200
 target3.y=170
+=======
+target2.width=90
+target2.x=180
+target2.y=10
+>>>>>>> 7ae6f524c1a629115f9531984feb492962aa8312
